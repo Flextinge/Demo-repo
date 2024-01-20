@@ -1,2 +1,2 @@
-# Demmo
-Some description needed and so on
+# Demo
+Some description.
